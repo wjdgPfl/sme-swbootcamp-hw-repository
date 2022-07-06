@@ -20,7 +20,7 @@ click [push me](https://www.youtube.com/watch?v=kMEb_BzyUqk&t=30s)
 
 |Header|Description|
 |--:|--:|
-|hyeri|dongheon|
+|hyeri|donghyun|
 
 ```ts
 console.log('your message')
